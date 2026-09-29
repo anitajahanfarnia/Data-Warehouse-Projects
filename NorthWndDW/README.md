@@ -1,6 +1,6 @@
-# Northwind Data Warehouse
+# NORTHWND Data Warehouse
 
-A Data Warehouse was designed based on the operational **Northwnd** database, with the target Data Warehouse named **NorthwndDW**.
+A Data Warehouse was designed based on the operational **NORTHWND** database, with the target Data Warehouse named **NorthWndDW**.
 
 In this project, the Dimension tables were loaded using the **Slowly Changing Dimension (SCD)** approach, while the Fact table was implemented using **Hash-based Change Detection**.
 
@@ -17,6 +17,6 @@ In this project, the Dimension tables were loaded using the **Slowly Changing Di
 The repository includes:
 
 - ETL workflow documentation in PDF format
-- Operational database (**Northwnd**)
-- Data Warehouse database (**NorthwndDW**)
+- Operational database (**NORTHWND**)
+- Data Warehouse database (**NorthWndDW**)
 - Complete SSIS project
